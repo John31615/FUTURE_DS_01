@@ -92,5 +92,6 @@ discount impact on profit, and top and bottom performing products.
 📊 Data Science & Analytics Intern — Future Interns
 
 🔗 **LinkedIn** https://www.linkedin.com/in/enock-mntungwa-803534227
+
 🐙 **GitHub:** https://github.com/John31615/
 
