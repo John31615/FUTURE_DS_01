@@ -1,6 +1,3 @@
-The issue is missing `##` headers and blank lines between sections. Here's the corrected full README:
-
-```markdown
 # 📊 Business Sales Performance Analytics
 
 ## 📌 Overview
